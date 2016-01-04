@@ -4,7 +4,11 @@ import java.io.Serializable;
 import java.util.Date;
 
 import br.com.tf.enumarate.StatusOcorrencia;
-
+/**
+ * 
+ * @author tiago.felipe
+ *
+ */
 public class OcorrenciaHistorico implements Serializable {
 
 	

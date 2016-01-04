@@ -2,7 +2,11 @@ package br.com.tf.models;
 
 import java.util.Date;
 import java.util.List;
-
+/**
+ * 
+ * @author tiago.felipe
+ *
+ */
 public class Ocorrencia {
 
 	

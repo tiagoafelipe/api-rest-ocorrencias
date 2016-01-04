@@ -1,7 +1,11 @@
 package br.com.tf.models;
 
 import java.io.Serializable;
-
+/**
+ * 
+ * @author tiago.felipe
+ *
+ */
 public class Usuario implements Serializable {
 
 	
